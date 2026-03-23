@@ -1,5 +1,7 @@
 # CUDY TR3000 V1 114M Immortalwrt
 
+# WiFi加密方式WPA3有些低端设备连接不上
+
 # Version 
 ```text
   CUDY_TR3000_V1_114M_IM_25_12:  tag openwrt-25.12
