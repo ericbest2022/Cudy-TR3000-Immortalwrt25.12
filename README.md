@@ -1,6 +1,6 @@
 # CUDY TR3000 V1 114M Immortalwrt
 
-# WiFi加密方式WPA3有些低端设备连接不上
+# 20260320：WiFi加密方式WPA3有些低端设备连接不上
 
 # Version 
 ```text
