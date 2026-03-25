@@ -12,6 +12,7 @@
 
 
 REPO_URL: https://github.com/immortalwrt/immortalwrt.git
+
 REPO_BRANCH: openwrt-25.12
 
 # Config
